@@ -1,0 +1,30 @@
+div {
+   color: green;
+}
+p {
+   color: orangered;
+}
+.text {
+   color: pink;
+}
+.orange {
+   color: orange
+}
+.blue {
+   color: blue
+}
+.brown {
+   color: brown
+}
+.red {
+   color: red;
+}
+.black {
+   color: black;
+}
+p.green-yellow {
+   color: greenyellow;
+}
+.text p {
+   color: blueviolet;
+}
